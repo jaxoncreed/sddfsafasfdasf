@@ -1,0 +1,12 @@
+{
+    "repoName": "sddfsafasfdasf",
+    "repoDescription": "asdfadfsfasdf",
+    "framework": "sails",
+    "database": "mongo",
+    "schemas": [
+        {
+            "name": "Update-Me",
+            "attributes": []
+        }
+    ]
+}
